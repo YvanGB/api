@@ -1,1 +1,14 @@
 
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "",
+      "password": "",
+      "password_confirmation": ""
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
